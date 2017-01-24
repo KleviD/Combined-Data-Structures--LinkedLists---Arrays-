@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=capacity
+comment0.target=Node(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Node.\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ Turn\ the\ array\ into\ a\ string.\r\n
+numComments=2

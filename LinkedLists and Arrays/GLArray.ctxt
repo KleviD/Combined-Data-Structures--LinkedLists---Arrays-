@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=node
+comment0.target=int\ length(Node)
+comment0.text=\r\n\ length\:\ takes\ in\ a\ node\ and\ returns\ the\ length\ of\ the\ GLArray.\ This\ is\r\n\ the\ length\ of\ the\ actual\ elements\ that\ have\ been\ added\ to\ the\ array,\ not\r\n\ including\ any\ additional\ space\ that\ has\ been\ allocated,\ but\ not\ yet\ used.\r\n\ \r\n\ Returns\ the\ length\ of\ the\ node\ inserted.\r\n
+comment1.params=node\ index
+comment1.target=java.lang.Integer\ get(Node,\ int)
+comment1.text=\r\n\ get\:\ takes\ in\ a\ node\ and\ an\ int\ index,\ and\ returns\ the\ value\ in\ the\ GLArray\r\n\ \ corresponding\ to\ that\ index.\ \r\n\r\n\ Returns\ the\ element\ accessed\ through\ the\ index\ parameter.\ \r\n
+comment2.params=node\ n
+comment2.target=void\ add(Node,\ java.lang.Integer)
+comment2.text=\r\n\ add\:\ takes\ in\ a\ node\ and\ a\ Integer\ and\ adds\ it\ to\ the\ end\ of\ the\ GLArray,\r\n\ similar\ to\ adding\ to\ an\ ArrayList.\ If\ the\ last\ Java\ array\ is\ full,\r\n\ it\ allocates\ another\ node\ and\ links\ it\ on\ to\ the\ end\ of\ the\ GLArray\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ \ \ Testing\ methods\ \r\n
+numComments=4
